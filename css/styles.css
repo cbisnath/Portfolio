@@ -13,14 +13,16 @@ h1 {
   font-size: 5.625rem;
   margin: 50px auto 0 auto;
   font-family: 'Sacramento', cursive;
-  color: #66BFBF;
+  /* color: #66BFBF; */
+  color: #a66af2;
 }
 
 
 h2 {
   font-size: 2.5rem;
   font-family: 'Montserrat', sans-serif;
-  color: #66BFBF;
+  /* color: #66BFBF; */
+  color: #a66af2;
   padding-bottom: 10px;
 }
 
@@ -90,9 +92,14 @@ hr {
 
 .top-container {
   /* background-color: #ddf3f5; */
-  background-color: #bfebef;
-  position: relative;
-  padding-top: 100px;
+  /* background-color: #bfebef; */
+  /* position: relative; */
+  background: url("https://images.unsplash.com/photo-1558022103-603c34ab10ce?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1742&q=80");
+  height: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding: 250px;
 }
 
 

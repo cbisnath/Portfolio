@@ -28,7 +28,12 @@ h2 {
   font-family: 'Montserrat', sans-serif;
   /* color: #66BFBF; */
   color: #343a40;
-  padding-bottom: 10px;
+  padding-bottom: 50px;
+}
+
+
+.scroll-down-icon {
+  color: #a66af2;
 }
 
 

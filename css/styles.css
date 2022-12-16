@@ -31,7 +31,7 @@ h2 {
 
 h3 {
   font-family: 'Montserrat', sans-serif;
-  color: #c6cccc;
+  color: #343a40;
   /* color: #11999E; */
   /* text-align: left; */
 }
@@ -162,7 +162,9 @@ hr {
 
 
 .btn:hover {
-  background-color: #0A6F73;
+  /* background-color: #0A6F73; */
+  background-color: #343a40;
+  color: #a66af2;
   transition: 0.4s;
 }
 

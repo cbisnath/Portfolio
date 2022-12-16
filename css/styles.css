@@ -13,10 +13,11 @@ h1 {
   font-size: 5.625rem;
   font-weight: 500;
   margin: 0 auto 0 auto;
-  font-family: 'Sacramento', cursive;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: bold;
   /* color: #66BFBF; */
   /* font-family: 'Monoton', cursive; */
-  color: #a66af2;
+  color: #dfc7eb;
 }
 
 
@@ -24,7 +25,7 @@ h2 {
   font-size: 2.5rem;
   font-family: 'Montserrat', sans-serif;
   /* color: #66BFBF; */
-  color: #a66af2;
+  color: #343a40;
   padding-bottom: 10px;
 }
 
@@ -45,7 +46,7 @@ a {
 hr {
   border-style: none;
   border-bottom-style: dotted;
-  border-color: #C6CCCC;
+  border-color: #a66af2;
   border-width: 5px;
   width: 5%;
   margin: 50px auto 50px auto;
@@ -54,13 +55,14 @@ hr {
 
 .profession {
   font-weight: normal;
+  color: #dfc7eb;
 }
 
 
 .profile-pic {
   height: 200px;
   width: 200px;
-  border: 1px solid #c6cccc;
+  border: 1px solid #343a40;
   border-radius: 50%;
 }
 

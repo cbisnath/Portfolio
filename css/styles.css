@@ -258,8 +258,9 @@ div.social a {
   /* width: 100%; */
   /* float: left; */
   /* margin-right: 30px; */
-  border: 10px solid #a66af2;
   /* border-radius: 30px; */
+  border: 10px solid #a66af2;
+  transition: all .4s ease;
 }
 
 
@@ -275,8 +276,9 @@ div.social a {
   /* width: 100%; */
   /* float: left; */
   /* margin-right: 30px; */
-  border: 10px solid #a66af2;
   /* border-radius: 30px; */
+  border: 10px solid #a66af2;
+  transition: all .4s ease;
 }
 
 
@@ -293,8 +295,9 @@ div.social a {
   /* width: 100%; */
   /* float: left; */
   /* margin-right: 30px; */
-  border: 10px solid #a66af2;
   /* border-radius: 30px; */
+  border: 10px solid #a66af2;
+  transition: all .4s ease;
 }
 
 

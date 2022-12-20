@@ -254,6 +254,14 @@ div.social a {
   border-radius: 30px;
 }
 
+.project-pic-1:hover {
+  /* width: 100%; */
+  /* float: left; */
+  /* margin-right: 30px; */
+  border: 10px solid #a66af2;
+  /* border-radius: 30px; */
+}
+
 
 .project-pic-2 {
   width: 100%;
@@ -261,6 +269,14 @@ div.social a {
   /* margin-left: 30px; */
   border: 10px solid #343a40;
   border-radius: 30px;
+}
+
+.project-pic-2:hover {
+  /* width: 100%; */
+  /* float: left; */
+  /* margin-right: 30px; */
+  border: 10px solid #a66af2;
+  /* border-radius: 30px; */
 }
 
 
@@ -271,6 +287,14 @@ div.social a {
   /* margin-right: 30px; */
   border: 10px solid #343a40;
   border-radius: 30px;
+}
+
+.project-pic-3:hover {
+  /* width: 100%; */
+  /* float: left; */
+  /* margin-right: 30px; */
+  border: 10px solid #a66af2;
+  /* border-radius: 30px; */
 }
 
 
